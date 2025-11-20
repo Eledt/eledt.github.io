@@ -23,7 +23,7 @@ repository               : "eledt/eledt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "newpic2.png"
+  avatar           : "profile.png"
   name             : "Elena Dal Torrione"
   pronouns         : # example: "she/her"  
   bio              : ""
